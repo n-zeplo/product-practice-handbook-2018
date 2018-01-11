@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [What Is Product?](chapter1.md)
-  * [Interaction Tech](interaction-tech.md)
+  * [Interaction Technology](interaction-tech.md)
     * Web
     * Native Applications
     * Data Visualization
@@ -38,6 +38,4 @@
     * Retail
     * Healthcare
     * Telecommunication
-
-
 
