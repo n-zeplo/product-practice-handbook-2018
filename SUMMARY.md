@@ -15,11 +15,11 @@
     * [Digital Platform Services](platforms/digital-platform-services.md)
     * [Serverless Architecture](platforms/serverless-architecture.md)
     * [Artificial Intelligence and Machine Learning](platforms/artificial-intelligence-and-machine-learning.md)
-  * Product Ops
-    * Design Systems
-    * Data Strategy
-    * Ship to Users \(Path to Production\)
-    * Experimentation Frameworks
+  * [Product Ops](product-ops.md)
+    * [Design Systems](product-ops/design-systems.md)
+    * [Data Strategy](product-ops/data-strategy.md)
+    * [Ship to Users \(Path to Production\)](product-ops/ship-to-users-path-to-production.md)
+    * [Experimentation Frameworks](product-ops/experimentation-frameworks.md)
 * [Product Innovation Teams](product-innovation-teams.md)
   * [Practitioner Skills](skillsets.md)
     * Product Management
@@ -38,6 +38,4 @@
     * Retail
     * Healthcare
     * Telecommunication
-
-
 

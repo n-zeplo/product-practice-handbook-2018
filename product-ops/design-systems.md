@@ -1,0 +1,10 @@
+# Design Systems
+
+> A design system unites product teams around a common visual language. It reduces design debt, accelerates the design process, and builds bridges between teams working in concert to bring products to life. Learn how you can create your design system and help your team improve product quality while reducing design debt. -- Design Systems Handbook by  DesignBetter.Co
+
+##### Learning Resources:
+
+[Design Systems Handbook](https://www.designbetter.co/design-systems-handbook) by DesignBetter.Co \[Free Online Book\]
+
+[Example Design Systems](https://github.com/alexpate/awesome-design-systems)
+
