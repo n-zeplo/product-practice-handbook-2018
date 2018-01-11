@@ -41,5 +41,5 @@
   * [Healthcare](domains/healthcare.md)
   * [Telecommunication](domains/telecommunication.md)
   * [Insurance / Financial Services](domains/insurance-financial-services.md)
-* [Creating a Product Innovation Engagement](creating-a-product-innovation-engagment.md)
+* [Engagement Models](creating-a-product-innovation-engagment.md)
 
