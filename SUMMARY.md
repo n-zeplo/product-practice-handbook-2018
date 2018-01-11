@@ -1,5 +1,6 @@
 # Summary
 
+* [Why We Made This](why-we-made-this.md)
 * [Introduction](README.md)
 * [What Is Product Innovation?](chapter1.md)
   * [Interaction Technology](interaction-tech.md)
