@@ -1,12 +1,23 @@
-# Creating a Product Innovation Engagement 
+# Creating a Product Innovation Engagement
 
-Qualification and building of product innovation engagements 
+Qualification and building of product innovation engagements
 
-Options:
+**Indicators of a product innovation need:**
 
-1. Steps
-2. Zombie like tool 
-3. Artifacts / Decks
+**Options:**
+
+* Steps
+
+* Zombie like tool 
+* Artifacts / Decks
+
+#### Steps:
+
+1. Engage
+2. Identify Problem
+3. Interview / Prototype
+4. Develop
+5. Handoff / Maintenence / Roadmap
 
 
 
