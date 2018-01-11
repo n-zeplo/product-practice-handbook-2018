@@ -2,18 +2,6 @@
 
 * [Introduction](README.md)
 * [What Is Product?](chapter1.md)
-* [Practitioner Skills](skillsets.md)
-  * Product Management
-  * UI / UX
-  * User Research
-  * Data
-* Methodologies
-  * Product Management
-  * Design Thinking
-  * Agile / Lean XD
-  * User Research
-  * Prototyping
-  * Service Design
 * [Interaction Tech](interaction-tech.md)
   * Web
   * Native Applications
@@ -32,6 +20,19 @@
   * Data Strategy
   * Ship to Users \(Path to Production\)
   * Experimentation Frameworks
+* [Product Innovation Teams](product-innovation-teams.md)
+* [Practitioner Skills](skillsets.md)
+  * Product Management
+  * UI / UX
+  * User Research
+  * Data
+* Methodologies
+  * Product Management
+  * Design Thinking
+  * Agile / Lean XD
+  * User Research
+  * Prototyping
+  * Service Design
 * [Domain Examples](domains.md)
   * Banking
   * Retail
