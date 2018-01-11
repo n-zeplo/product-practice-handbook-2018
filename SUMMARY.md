@@ -37,8 +37,8 @@
   * [Case Management](class-of-problems/case-management.md)
 * [Domain Examples](domains.md)
   * [Banking](domains/banking.md)
-  * Retail
-  * Healthcare
-  * Telecommunication
-  * Insurance / Financial Services
+  * [Retail](domains/retail.md)
+  * [Healthcare](domains/healthcare.md)
+  * [Telecommunication](domains/telecommunication.md)
+  * [Insurance / Financial Services](domains/insurance-financial-services.md)
 
