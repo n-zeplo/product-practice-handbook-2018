@@ -8,3 +8,17 @@
 
 
 
+### Resources:
+
+What is Product Innovation:
+
+* [Thoughtworks Product Innovation Handbook 2018](/n-zeplo.gitbooks.io/thoughtworks-product-innovation-handbook-2018/content/)
+
+Sale Tools:
+
+* PI Landscape 2018 \(TBD: Add link to Slide deck\)
+
+
+
+
+
