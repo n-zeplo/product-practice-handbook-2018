@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [What Is Product?](chapter1.md)
+* [What Is Product Innovation?](chapter1.md)
   * [Interaction Technology](interaction-tech.md)
     * [Web](interaction-tech/web.md)
     * [Native Applications](interaction-tech/native-applications.md)
@@ -33,9 +33,10 @@
     * User Research
     * Prototyping
     * Service Design
-  * [Domain Examples](domains.md)
-    * Banking
-    * Retail
-    * Healthcare
-    * Telecommunication
+* [Domain Examples](domains.md)
+  * [Banking](domains/banking.md)
+  * Retail
+  * Healthcare
+  * Telecommunication
+  * Insurance / Financial Services
 
