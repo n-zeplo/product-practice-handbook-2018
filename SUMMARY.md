@@ -33,6 +33,8 @@
     * User Research
     * Prototyping
     * Service Design
+* [Class of Problems](class-of-problems.md)
+  * [Case Management](class-of-problems/case-management.md)
 * [Domain Examples](domains.md)
   * [Banking](domains/banking.md)
   * Retail
