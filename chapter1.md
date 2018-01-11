@@ -1,3 +1,6 @@
-# First Chapter
+# What is Product Innovation?
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+> ###### The best way to predict the future is to invent it -- Alan Kay
+
+
+

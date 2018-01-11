@@ -3,11 +3,11 @@
 * [Introduction](README.md)
 * [What Is Product?](chapter1.md)
 * [Practitioner Skills](skillsets.md)
-  * Product Management
+  * [Product Management](skillsets/product-management.md)
   * UI / UX
   * User Research
   * Data
-* Methodologies
+* [Methodologies](methodologies.md)
   * Product Management
   * Design Thinking
   * Agile / Lean XD
