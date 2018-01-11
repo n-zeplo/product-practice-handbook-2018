@@ -26,7 +26,7 @@
     * UI / UX
     * User Research
     * Data
-  * Methodologies
+  * [Methodologies](methodologies.md)
     * Product Management
     * Design Thinking
     * Agile / Lean XD
