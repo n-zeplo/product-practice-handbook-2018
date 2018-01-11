@@ -11,12 +11,12 @@
     * [Hardware, Wearables and Internet of Things](interaction-tech/hardware-wearables-and-internet-of-things.md)
     * [Augmented Reality and Virtual Reality](interaction-tech/augmented-reality-and-virtual-reality.md)
   * [Platforms](platforms.md)
-    * [Cloud \(AWS, CloudFoundry, etc.\)](#)
-    * Digital Platform Services
-    * Serverless Architecture
-    * Artificial Intelligence and Machine Learning
-  * [Product Ops](product-ops.md)
-    * [Design Systems](product-ops/design-systems.md)
+    * [Cloud \(AWS, CloudFoundry, etc.\)](platforms/cloud-aws-cloudfoundry-etc.md)
+    * [Digital Platform Services](platforms/digital-platform-services.md)
+    * [Serverless Architecture](platforms/serverless-architecture.md)
+    * [Artificial Intelligence and Machine Learning](platforms/artificial-intelligence-and-machine-learning.md)
+  * Product Ops
+    * Design Systems
     * Data Strategy
     * Ship to Users \(Path to Production\)
     * Experimentation Frameworks
