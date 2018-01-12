@@ -10,7 +10,7 @@ In order to compete in todays market it is necessary for businesses to meet thei
 
 **Desire to Engage Users In Their Homes: **[Internet of Things and Smart Home](/interaction-tech/hardware-wearables-and-internet-of-things.md) devices have seen extreme growth in the past few years. A new avenue for customer engagement growth would be to integrate with these systems using a [voice interface](/interaction-tech/voice.md).
 
-**In-Person Training is Expensive and Online Training Is Not Providing Adequate Training: **Training new employees, especially those using interactive machinery can be expensive. Utilizing [AR / VR technology](/interaction-tech/augmented-reality-and-virtual-reality.md) to create an interactive training tool can help minimize cost of large batch training and ensure trainee gets low cost hands on experience before starting. 
+**In-Person Training is Expensive and Online Training Is Not Providing Adequate Training: **Training new employees, especially those using interactive machinery can be expensive. Utilizing [AR / VR technology](/interaction-tech/augmented-reality-and-virtual-reality.md) to create an interactive training tool can help minimize cost of large batch training and ensure trainee gets low cost hands on experience before starting.
 
 **Engage Customers in Low Connectivity Areas: **Users will not always have internet access and with low bandwidth we see increased drop off of user engagement. By utilizing new technologies such as native / web workers, caching and offline queues your users can always be engaged with your product and sync actions and data when their device connects to the internet.
 
