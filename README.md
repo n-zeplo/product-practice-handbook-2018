@@ -6,8 +6,6 @@
 
 ###### TBD
 
-
-
 ### Resources:
 
 What is Product Innovation:
@@ -17,8 +15,6 @@ What is Product Innovation:
 Sale Tools:
 
 * PI Landscape 2018 \(TBD: Add link to Slide deck\)
-
-
 
 
 
