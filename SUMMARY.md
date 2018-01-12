@@ -35,7 +35,11 @@
     * Prototyping
     * Service Design
 * [Class of Problems](class-of-problems.md)
-  * [Case Management](class-of-problems/case-management.md)
+  * [User Engagement](#)
+* * [Data](class-of-problems/data.md)
+  * [Strategic Alignment](class-of-problems/strategic-alignment.md)
+  * [Client Examples](class-of-problems/client-examples.md)
+
 * [Domain Examples](domains.md)
   * [Banking](domains/banking.md)
   * [Retail](domains/retail.md)
@@ -43,4 +47,6 @@
   * [Telecommunication](domains/telecommunication.md)
   * [Insurance / Financial Services](domains/insurance-financial-services.md)
 * [Engagement Models](creating-a-product-innovation-engagment.md)
+
+
 
