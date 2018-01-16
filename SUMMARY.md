@@ -23,17 +23,17 @@
     * [Experimentation Frameworks](product-ops/experimentation-frameworks.md)
 * [Product Innovation Teams](product-innovation-teams.md)
   * [Practitioner Skills](skillsets.md)
-    * Product Management
-    * UI / UX
-    * User Research
-    * Data
+    * [Product Management](skillsets/product-management.md)
+    * [UI / UX](skillsets/ui-ux.md)
+    * [User Research](skillsets/user-research.md)
+    * [Data](skillsets/data.md)
   * [Methodologies](methodologies.md)
-    * Product Management
-    * Design Thinking
-    * Agile / Lean XD
-    * User Research
-    * Prototyping
-    * Service Design
+    * [Product Management](methodologies/product-management.md)
+    * [Design Thinking](methodologies/design-thinking.md)
+    * [Agile / Lean XD](methodologies/agile-lean-xd.md)
+    * [User Research](methodologies/user-research.md)
+    * [Prototyping](methodologies/prototyping.md)
+    * [Service Design](methodologies/service-design.md)
 * [Class of Problems](class-of-problems.md)
   * [User Engagement](class-of-problems/user-engagement.md)
   * [Data](data.md)
@@ -46,4 +46,6 @@
   * [Telecommunication](domains/telecommunication.md)
   * [Insurance / Financial Services](domains/insurance-financial-services.md)
 * [Engagement Models](creating-a-product-innovation-engagment.md)
+  * [Engagement Lifecycle](creating-a-product-innovation-engagment/engagement-lifecycle.md)
+  * [Staffing Considerations](creating-a-product-innovation-engagment/staffing-considerations.md)
 
