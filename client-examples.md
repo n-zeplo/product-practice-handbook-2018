@@ -23,5 +23,17 @@
 * As data grows the current solution for generating opportunities for maintenance becomes extremely slow leading to lost opportunity.
 * Our users have dropped off due to a lack of customizable features that help them make the tool useful to their goals 
 
+**Retailer Price Optimization**
+
+* Pricing items is a manual process that takes time and doesn't reflect competitive market analysis leading to losses through less competitive pricing
+* Pricing should be determined automatically with the data from the market, the POS system and predictive demand information to be more competitive in our pricing 
+
+**Supply Chain for American Multinational Consumer Goods Company**
+
+* Supply chain optimizaton to reduce workforce of planners and increase automation for proper supply distribution
+* We would like a system to automatically detect events in our sales systems and business systems and take action to ensure the supply chain reacts appropriately
+
+**Anomaly Detection in Leading International Investment Bank**
+
 
 
