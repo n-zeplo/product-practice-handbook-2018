@@ -35,5 +35,10 @@
 
 **Anomaly Detection in Leading International Investment Bank**
 
+* System downtime costs potentially millions in losses and an early detection or warning of system downtime would greatly alleviate the cost
+* The least stable portion of our products is the shared underlying infrastructure 
+
+
+
 
 
