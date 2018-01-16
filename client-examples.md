@@ -15,9 +15,13 @@
 
 **A Large Network Equipment Manufacturer**
 
-* How do we aggregate and organize knowledge
-   across the org?
+* How do we aggregate and organize knowledge across the org?
 * How do we automatically gather metadata to allow system to better organize, return and recommend articles the user might be interested in?
+
+**Predictive Sales and Maintenance**
+
+* As data grows the current solution for generating opportunities for maintenance becomes extremely slow leading to lost opportunity.
+* Our users have dropped off due to a lack of customizable features that help them make the tool useful to their goals 
 
 
 
