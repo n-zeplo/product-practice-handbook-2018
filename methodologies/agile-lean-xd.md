@@ -1,4 +1,4 @@
-# Agile and Lean XD
+# Agile, Scrum and Lean
 
 
 
