@@ -26,7 +26,7 @@
   * [Practitioner Skills](skillsets.md)
     * [Product Management](skillsets/product-management.md)
     * [User Research](skillsets/user-research.md)
-    * UI Development
+    * [UI Development](skillsets/ui-development.md)
     * Visual Design
     * [Prototyping](methodologies/prototyping.md)
     * [Data Science](skillsets/data.md)
