@@ -8,5 +8,7 @@ Design systems are growing in many organizations in order to onboard and align p
 
 [Design Systems Handbook](https://www.designbetter.co/design-systems-handbook) by DesignBetter.Co \[Free Online Book\]
 
+[Design Systems Coalition NYC](http://designsystems.nyc/), Talk series, archived here
+
 [Example Design Systems](https://github.com/alexpate/awesome-design-systems)
 
