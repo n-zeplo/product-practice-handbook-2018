@@ -34,7 +34,7 @@
   * [Methodologies](methodologies.md)
     * [Agile / Scrum](methodologies/agile-lean-xd.md)
     * Lean
-    * [Design Thinking](methodologies/design-thinking.md)
+    * [Product Design](methodologies/design-thinking.md)
 * [Class of Problems](class-of-problems.md)
   * [User Engagement](class-of-problems/user-engagement.md)
   * [Data](data.md)
