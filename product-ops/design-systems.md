@@ -10,5 +10,7 @@ Design systems are growing in many organizations in order to onboard and align p
 
 [Design Systems Coalition NYC](http://designsystems.nyc/), Talk series, archived here
 
+[Building a Visual Language](https://airbnb.design/building-a-visual-language/) by Airbnb Design
+
 [Example Design Systems](https://github.com/alexpate/awesome-design-systems)
 
