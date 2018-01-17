@@ -6,3 +6,9 @@ Technical - CI /CD / Path to Prod
 
 Business - Go to Market Strategy
 
+#### Learning Resources
+
+#### 
+
+
+
