@@ -4,3 +4,9 @@
 
 [TW Capability Site Description](https://www.gitbook.com/book/n-zeplo/thoughtworks-product-innovation-handbook-2018/edit#) \(TBD\)
 
+#### Learning Resources
+
+[Intro to Lean UX](https://www.interaction-design.org/literature/article/a-simple-introduction-to-lean-ux) at Interaction Design Foundation with content from Rosenfeld Media and Jeff Gothelf
+
+
+
