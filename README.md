@@ -28,11 +28,11 @@ We are a group consisting of designers, developers and product people within Tho
 
 Nathan Zeplowitz - [nzeplowi@thoughtworks.com](mailto:nzeplowi@thoughtworks.com "Email")
 
-Hannah Lane - [hmlane@thoughtworks.com](/hmlane@thoughtworks.com "Email")
-
 Christopher Edwards - [cedwards@thoughtworks.com](/cedwards@thoughtworks.com "Email")
 
-Kent Rahman
+Kent Rahman -[ krahman@thoughtworks.com](/krahman@thoughtworks.com "Email")
+
+Hannah Lane - [hmlane@thoughtworks.com](/hmlane@thoughtworks.com "Email") \(Responses from Hannah will be delayed until further notice\)
 
 ### Resources:
 
