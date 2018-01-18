@@ -4,6 +4,8 @@ TBD: Systems of organizing research, synthesis and findings
 
 #### Learning Resources
 
+[Practical User Research: Creating a Culture of Learning in Large Organizations](https://alistapart.com/article/practical-user-research-creating-a-culture), form A List Apart
+
 [Creating a Visible Research Culture in Distributed Offices](https://medium.com/facebook-research/creating-a-visible-research-culture-in-distributed-offices-4df83867b8ab), case study from Facebook
 
 [Choosing the Right UX Research Strategy](https://www.userzoom.com/user-experience-research/choosing-the-right-ux-research-strategy/) at UserZoom
