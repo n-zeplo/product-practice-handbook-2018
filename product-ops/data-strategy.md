@@ -4,5 +4,7 @@
 
 #### Learning Resources
 
+[Lean Data Strategy](https://docs.google.com/presentation/d/185pFnKpnzZecA_mS-ofDPqdHcXMLBQPzaExyzJ5uXhE/edit#slide=id.p3), the ThoughtWorks approach
+
 [7 Dimensions of Big Data Agile Analytics](https://www.thoughtworks.com/insights/blog/7-dimensions-agile-analytics) by Ken Collier at TW Insights
 
