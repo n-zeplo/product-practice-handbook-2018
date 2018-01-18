@@ -2,7 +2,7 @@
 
 > The locus of corporate innovations has been product development. But in times of rapid and unpredictable change, the creation of individual products becomes less important than the creation of a general organizational aptitude for innovation. -- John Seely Brown
 
-Product innovation is the act of looking at the problems your users face with a magnifying glass to identify a service or good that uses new or improved technology and processes to solve the users problems. In this book we will attempt to identify the tools that are available to help tackle product innovation, the processes that lead to team success and a number of examples to further your understanding of product innovation engagements. 
+Product innovation is the act of looking at the problems your users face with a magnifying glass to identify a service or good that uses new or improved technology and processes to solve the users problems. In this book we will attempt to identify the tools that are available to help tackle product innovation, the processes that lead to team success and a number of examples to further your understanding of product innovation engagements.
 
 ### Value Proposition:
 
@@ -22,14 +22,23 @@ This wiki will not attempt to:
 
 ### Who Are We?
 
-The group writing this book consists of designers, developers and product people within ThoughtWorks. Through our shared experiences and research into TW product engagements we have compiled the resources here within. We hope that our varied backgrounds and multi year experiences at TW on different projects and products will inform this book and future engagements. We are always looking for help and verification of our findings and encourage all who read this book to reach out to us or make comments inside the gitbook that we can address.
+We are a group consisting of designers, developers and product people within ThoughtWorks. Through our shared experiences and research into TW product engagements we have compiled the resources here within. We hope that our varied backgrounds and multi year experiences at TW on different projects and products will inform this book and future engagements. We are always looking for help and verification of our findings and encourage all who read this book to reach out to us or make comments inside the gitbook that we can address.
+
+#### Current Core Contributors:
+
+Hannah Lane 
+
+Kent Rahman
+
+Christopher Edwards
+
+Nathan Zeplowitz - [nzeplowi@thoughtworks.com](mailto:nzeplowi@thoughtworks.com "Email")
 
 ### Resources:
 
 What is Product Innovation:
 
 * [Thoughtworks Product Innovation Handbook 2018](/n-zeplo.gitbooks.io/thoughtworks-product-innovation-handbook-2018/content/)
-* [Innovation is Broken by Janice Fraser](https://www.gitbook.com/book/n-zeplo/thoughtworks-product-innovation-handbook-2018/edit#)
 
 Sale Tools:
 
