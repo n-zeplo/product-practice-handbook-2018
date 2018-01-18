@@ -26,13 +26,13 @@ We are a group consisting of designers, developers and product people within Tho
 
 #### Current Core Contributors:
 
-Hannah Lane 
+Nathan Zeplowitz - [nzeplowi@thoughtworks.com](mailto:nzeplowi@thoughtworks.com "Email")
+
+Hannah Lane - [hmlane@thoughtworks.com](/hmlane@thoughtworks.com "Email")
+
+Christopher Edwards - [cedwards@thoughtworks.com](/cedwards@thoughtworks.com "Email")
 
 Kent Rahman
-
-Christopher Edwards
-
-Nathan Zeplowitz - [nzeplowi@thoughtworks.com](mailto:nzeplowi@thoughtworks.com "Email")
 
 ### Resources:
 
