@@ -27,7 +27,7 @@
     * [Product Management](skillsets/product-management.md)
     * [User Research](skillsets/user-research.md)
     * [UI Development](skillsets/ui-development.md)
-    * Visual Design
+    * [Visual Design](skillsets/visual-design.md)
     * [Prototyping](methodologies/prototyping.md)
     * [Data Science](skillsets/data.md)
     * [Service Design](methodologies/service-design.md)

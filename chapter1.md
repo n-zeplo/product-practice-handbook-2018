@@ -4,7 +4,7 @@ Product innovation is the act of looking at the problems your users face with a 
 
 Innovation is thinking differently about your problems through the use of new or improved tools and process to provide better solutions that excite and delight the market and your users. Innovation requires people to think outside the box. It requires teams of people who are willing to try new things and embrace the unknown and the risk there within in order to find what does and doesn't work.
 
-Product innovation at ThoughtWorks can mean many different things as our teams of specialists tailor our process to fit different organizations needs and desires. The ability to flex our approach requires a knowledge base to inform and act as a foundation for our product engagements. Within this section we will discuss many of the tools and processes in the TW toolbelt that we utilize to deepen our influence and create innovative products that address the core concerns of our clients users.
+Product innovation can mean many different things as our teams of specialists tailor our process to fit different organizations needs and desires. The ability to flex our approach requires a knowledge base to inform and act as a foundation for our product engagements. Within this section we will discuss many of the tools and processes we can utilize to deepen our influence and create innovative products that address the core concerns of our clients users.
 
 ## Further Resources:
 

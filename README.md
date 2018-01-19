@@ -1,4 +1,4 @@
-# ThoughtWorks Product Innovation Handbook 2018
+# Product Innovation Handbook 2018
 
 > The locus of corporate innovations has been product development. But in times of rapid and unpredictable change, the creation of individual products becomes less important than the creation of a general organizational aptitude for innovation. -- John Seely Brown
 
@@ -38,7 +38,7 @@ Hannah Lane - [hmlane@thoughtworks.com](mailto:hmlane@thoughtworks.com) \(Respon
 
 What is Product Innovation:
 
-* [Thoughtworks Product Innovation Handbook 2018](/n-zeplo.gitbooks.io/thoughtworks-product-innovation-handbook-2018/content/)
+* [Product Innovation Handbook 2018](/n-zeplo.gitbooks.io/thoughtworks-product-innovation-handbook-2018/content/)
 
 Sale Tools:
 
