@@ -1,4 +1,4 @@
 # Class of Problems
 
-A product innovation starts its journey as a business problem.
+A product design starts its journey as a business problem.
 

@@ -1,6 +1,6 @@
 # Engagement Models
 
-Qualification and building of product innovation engagements
+Qualification and building of product design engagements
 
 ### Toolkit **Options:**
 
