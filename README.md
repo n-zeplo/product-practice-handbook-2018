@@ -2,7 +2,7 @@
 
 > The locus of corporate innovations has been product development. But in times of rapid and unpredictable change, the creation of individual products becomes less important than the creation of a general organizational aptitude for innovation. -- John Seely Brown
 
-Product innovation is the act of looking at the problems your users face with a magnifying glass to identify a service or good that uses new or improved technology and processes to solve the users problems. In this book we will attempt to identify the tools that are available to help tackle product innovation, the processes that lead to team success and a number of examples to further your understanding of product innovation engagements.
+Product innovation is the act of looking at the problems your users face with a magnifying glass to identify, plan and deliver a service or good using new or improved technology and processes to solve the users problems. In this book we will attempt to identify the tools that are available to help tackle product innovation, the processes that lead to team success and a number of examples to further your understanding of product innovation engagements.
 
 ### Value Proposition:
 
