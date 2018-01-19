@@ -1,5 +1,7 @@
 # What Is Product Innovation?
 
+> The locus of corporate innovations has been product development. But in times of rapid and unpredictable change, the creation of individual products becomes less important than the creation of a general organizational aptitude for innovation. -- John Seely Brown
+
 Product innovation is the act of looking at the problems your users face with a magnifying glass to identify a service or good that uses new or improved technology and processes to solve the users problems. Product are offerings that a business uses to provide value to their users and are the keystone to business success. However, in our crowded markets, rarely do products alone provide business success over their competitors but rather innovation propels businesses beyond their competition.
 
 Innovation is thinking differently about your problems through the use of new or improved tools and process to provide better solutions that excite and delight the market and your users. Innovation requires people to think outside the box. It requires teams of people who are willing to try new things and embrace the unknown and the risk there within in order to find what does and doesn't work.

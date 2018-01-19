@@ -1,8 +1,6 @@
-# Product Innovation Handbook 2018
+# Product Design Handbook 2018
 
-> The locus of corporate innovations has been product development. But in times of rapid and unpredictable change, the creation of individual products becomes less important than the creation of a general organizational aptitude for innovation. -- John Seely Brown
-
-Product innovation is the act of looking at the problems your users face with a magnifying glass to identify, plan and deliver a service or good using new or improved technology and processes to solve the users problems. In this book we will attempt to identify the tools that are available to help tackle product innovation, the processes that lead to team success and a number of examples to further your understanding of product innovation engagements.
+Product Design is the act of looking at the problems your users face with a magnifying glass to identify, plan and deliver a service or good using new or improved technology and processes to solve the users problems. In this book we will attempt to identify the tools that are available to help tackle product design, the processes that lead to team success and a number of examples to further your understanding of product design engagements.
 
 ### Value Proposition:
 
@@ -10,7 +8,7 @@ Product innovation is the act of looking at the problems your users face with a 
 
 ### Scope of this Book
 
-This wiki is comprised of foundational findings from the industry and multiple client engagements. The intent is to provide a starting point for individuals to understand the core set of information to enable product innovation to succeed. This team has curated the topics of this wiki to provide the most relevant information to the widest selection of product innovation engagements in a small consumable fashion. Insights are drawn from representative and repeated case studies and curated by a core SME team.
+This wiki is comprised of foundational findings from the industry and multiple client engagements. The intent is to provide a starting point for individuals to understand the core set of information to enable product design to succeed. This team has curated the topics of this wiki to provide the most relevant information to the widest selection of product design engagements in a small consumable fashion. Insights are drawn from representative and repeated case studies and curated by a core SME team.
 
 ### Out Of Scope of this Book
 
@@ -36,9 +34,9 @@ Hannah Lane - [hmlane@thoughtworks.com](mailto:hmlane@thoughtworks.com) \(Respon
 
 ### Resources:
 
-What is Product Innovation:
+What is Product Design:
 
-* [Product Innovation Handbook 2018](/n-zeplo.gitbooks.io/thoughtworks-product-innovation-handbook-2018/content/)
+* [Product Design Handbook 2018](/n-zeplo.gitbooks.io/thoughtworks-product-innovation-handbook-2018/content/)
 
 Sale Tools:
 
