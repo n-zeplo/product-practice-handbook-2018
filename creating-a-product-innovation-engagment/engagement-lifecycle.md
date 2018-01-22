@@ -30,9 +30,19 @@ Every engagement goes through multiple phases that require us to think different
 
 ## Delivery
 
-* Further clarify implementation details
+* Further clarify implementation details and create estimates
+* Decide on technology being used to produce the product and create boilerplate
+* Regular delivery cadence using Agile / Scrum methodology
+* Create CI and CD infrastructure and decide on cadence for pushing to production
+* Document process, progress, and code / design choices as the code grows \(aids in next stage\)
 
-## Handoff / Maintenence / Roadmap
+## Handoff / Maintainence / Roadmap
+
+* Develop a clear roadmap for product growth and development with highlights around key integrations, releases or decision points
+
+* Ensure the development and designers have a clear idea of how to maintain the codebase and knowledge
+
+* Make documentation easily accessible and understandable in the case of handoff or onboarding new people to the team
 
 * 
 
