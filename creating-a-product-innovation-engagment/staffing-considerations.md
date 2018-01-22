@@ -12,10 +12,14 @@
       * Design 
       * UI Prototyping
     * Development
-      * Product Manager
-      * Design
+      * Product Managers
+      * UX / Designers
       * Developers / Quality Analysts
-      * Business Analyst
+      * Business Analysts
+    * Expansion / Maintenance
+      * UX / Designers
+    * * Developers /  Quality Analysts
+      * Business Analysts
 * What are the Interaction Technology?
 
 
