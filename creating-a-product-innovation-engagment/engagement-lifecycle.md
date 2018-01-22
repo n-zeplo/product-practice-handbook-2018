@@ -44,6 +44,5 @@ Every engagement goes through multiple phases that require us to think different
 
 * Make documentation easily accessible and understandable in the case of handoff or onboarding new people to the team
 
-* 
 
 
