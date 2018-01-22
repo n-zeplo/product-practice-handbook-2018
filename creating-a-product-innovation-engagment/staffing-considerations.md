@@ -11,7 +11,11 @@
       * User Researcher 
       * Design 
       * UI Prototyping
+    * Development
       * Product Manager
+      * Design
+      * Developers / Quality Analysts
+      * Business Analyst
 * What are the Interaction Technology?
 
 
