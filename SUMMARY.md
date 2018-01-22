@@ -39,7 +39,6 @@
   * [User Engagement](class-of-problems/user-engagement.md)
   * [Data](data.md)
   * [Strategic Alignment](strategic-alignment.md)
-  * [Client Examples](client-examples.md)
 * [Domain Examples](domains.md)
   * [Banking](domains/banking.md)
   * [Retail](domains/retail.md)
