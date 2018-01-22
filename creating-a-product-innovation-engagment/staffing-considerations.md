@@ -21,6 +21,8 @@
     * * Developers /  Quality Analysts
       * Business Analysts
 * What are the Interaction Technology?
+  * Staff for needs of the technology 
+* How is the organization structured? Does it need more client management? 
 
 
 
