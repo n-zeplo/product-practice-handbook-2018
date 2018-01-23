@@ -26,17 +26,15 @@ User's want to spend as little time on your site as possible to accomplish their
 
 **Drop Off Due to Complexity: **High levels of complexity in UIs leads to high development costs and can lead to less user engagement if they can not identify the right path to accomplish their goals. Using product validation techniques \(ex. user research, A/B testing, etc.\) the business can identify these complexities and points of confusion and simplify the product to the users goals. If done early and often this can also reduce the cost of developing UIs by reducing complexity.
 
-## Meet the Needs of All Customers 
+## Meet the Needs of All Customers
 
 Most products focus on a few key demographics as their audience but to build your application to these key demographics at the cost of other minority focus groups is to the detriment of your product. When building products time must be spent on users that don't fall into the ideal mold of our users. Building accessiblilty, onboarding and supportability into your product can increase the types of users that use your products. It should also be noted that many industries are now required to have their products comply with accessibility standards dictated by the_ American with Disabilities Act_ and identifying these requirements early eases the incorporation of accessibility into your products_. _
 
 #### Example Problems:
 
-**Users with Visual Disabilities**: There are a range of different visual disabilities that can afflict a user and although we can not account for all levels of visual acuity we can do some simple things to address this problem. Being aware and testing our products contrast, text size, line spacing, fonts, interactable element sizing / color are all important to consider when addressing this problem. Good tools for testing accessibility concerns include: [Chrome Accessibility Dev Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
+**Users with Visual Impairments**: There are a range of different visual disabilities that can afflict a user and although we can not account for all levels of visual acuity we can do some simple things to address this problem. Being aware and testing our products contrast, text size, line spacing, fonts, interactable element sizing / color are all important to consider when addressing this problem. Good tools for testing accessibility concerns include: [Chrome Accessibility Dev Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 
-**Users with Blindness: **Blindness can make many websites unusable. By testing with screen readers you can identify how your product can be used by the more extreme visually impaired users. This also ensures that products have keyboard bindings that even the unimpaired use based on web standards. 
+**Users with Blindness: **Blindness can make many websites unusable. By testing with screen readers you can identify how your product can be used by the more extreme visually impaired users. This also ensures that products have keyboard bindings that even the unimpaired use based on web standards.
 
-
-
-
+**Users with Hearing Impairments: **Many websites have started using videos and audio to communicate in a more visual and personal way to their users. It is important to remember the importance of providing ways for those with hearing impairments to interact and engage with these areas of our site. The addition of captions is an easy way to allow these users to follow videos and using visual cues tied with sounds can help with auditory indicators used to inform the user of call to actions or changes with the product flow. 
 
