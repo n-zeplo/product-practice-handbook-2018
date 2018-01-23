@@ -4,7 +4,7 @@ Product Design is the act of looking at the problems your users face with a magn
 
 ### Value Proposition:
 
-This Product Design Handbook 2018 is a holistic, comprehensive resource for all to better understand the foundational knowledge that makes up product design. It is an open source resource for the community of product practitioners to contribute and grow the knowledge here within inline with the direction and growth of the industry to maintain relevancy and usefulness. Through the definitions and resources found within this book it becomes a meeting point of ideas and patterns to help jump start conversations and engagements in the product space. 
+This Product Design Handbook 2018 is a holistic, comprehensive resource for all to better understand the foundational knowledge that makes up product design. It is an open source resource for the community of product practitioners to contribute and grow the knowledge here within inline with the direction and growth of the industry to maintain relevancy and usefulness. Through the definitions and resources found within this book it becomes a meeting point of ideas and patterns to help jump start conversations and engagements in the product space.
 
 ### Scope of this Book
 
@@ -24,11 +24,11 @@ We are a group consisting of designers, developers and product people within Tho
 
 ### How to Contribute
 
-As of now this book is contributed to via gitbooks editing tools. 
+As of now this book is contributed to via gitbooks editing tools.
 
-In order to contribute please make a gitbook login and send it to nzeplowi@thoughtworks.com to be added to project as a contributor. 
+In order to contribute please make a gitbook login and send it to nzeplowi@thoughtworks.com to be added to project as a contributor.
 
-We request that all changes be made in a change request so that it can be reviewed by the community before integration. All changes should have at least one review before merging into the book. 
+We request that all changes be made in a change request so that it can be reviewed by the community before integration. All changes should have at least one review before merging into the book. In order to make a change request enter edit mode, make changes, click "Create a Change Request" in the upper left hand corner, add a short message about the changes, send the change request and then publish the changes on the new branch. 
 
 #### Current Core Contributors:
 
