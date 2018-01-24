@@ -1,4 +1,4 @@
-### Who Are We?
+# Who We Are
 
 We are a group consisting of designers, developers and product people within ThoughtWorks. Through our shared experiences and research into TW product engagements we have compiled the resources here within. We hope that our varied backgrounds and multi year experiences at TW on different projects and products will inform this book and future engagements. We are always looking for help and verification of our findings and encourage all who read this book to reach out to us or make comments inside the gitbook that we can address.
 

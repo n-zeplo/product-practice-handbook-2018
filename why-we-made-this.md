@@ -1,3 +1,5 @@
+# Why We Made This
+
 **Team:** Nathan, Hannah, Kent, Christopher
 
 **Trigger:** Started through harvesting learnings from client engagement
@@ -6,7 +8,7 @@
 
 **TW Problem: **Recognize need to better define what Product Innovation is, how we talk about it, and how to do it at scale
 
-WHY:  
+WHY:
 
 * why do clients need product innovation?
   * remain relevant to their customers or employees
@@ -19,14 +21,14 @@ WHY:
   * stay relevant and competitive
   * have longer lasting engagements
 
-HOW:  
+HOW:
 
 * how it works and operates at scale 
   * tools
   * methodologies
   * principles and practices
 
-WHAT: 
+WHAT:
 
 * what does it look like operationally
   * client acquisition / sales funnel
