@@ -1,18 +1,15 @@
 # Product Practice Handbook 2018
 
-* Overview
-* * 
-* Value Prop / Mission
-  * 
-* Content
+* ###### Overview 
+
+* ###### Value Prop / Mission
+* ###### Content
 
 ### Value Proposition:
 
 This Product Practice Handbook 2018 is a holistic, comprehensive resource for all to better understand the foundational knowledge that makes up product engagements. It is an open source resource for the community of product practitioners to contribute and grow this knowledge base inline with the direction and growth of the industry to maintain relevancy and usefulness. Through the definitions and resources found within this book it becomes a meeting point of ideas and patterns to help jump start conversations and engagements in the product space.
 
 ### Contents
-
-
 
 ### Scope of this Book
 
