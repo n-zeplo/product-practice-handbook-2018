@@ -1,8 +1,9 @@
 # Summary
 
 * [Why We Made This](why-we-made-this.md)
+* [Who We Are](who-we-are.md)
 * [Introduction](README.md)
-* [What Is Product Design?](chapter1.md)
+* [What Is Product?](chapter1.md)
   * [Interaction Technology](interaction-tech.md)
     * [Web](interaction-tech/web.md)
     * [Native Applications](interaction-tech/native-applications.md)
@@ -22,7 +23,7 @@
     * [Research Strategy](product-ops/research-strategy.md)
     * [Ship to Users \(End to End Value Stream\)](product-ops/ship-to-users-path-to-production.md)
     * [Experimentation Frameworks](product-ops/experimentation-frameworks.md)
-* [Product Design Teams](product-innovation-teams.md)
+* [Product Teams](product-innovation-teams.md)
   * [Practitioner Skills](skillsets.md)
     * [Product Management](skillsets/product-management.md)
     * [User Research](skillsets/user-research.md)
