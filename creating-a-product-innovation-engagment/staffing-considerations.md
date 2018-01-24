@@ -1,17 +1,19 @@
-### Staffing Considerations:
+### Staffing Considerations\*: 
+
+###### \*\(This section will be folded into the corresponding stage above\)
 
 * What stage is the engagement starting at? Ideation? Research? Development? Expansion / Maintenance?
   * Example Staffing Needs: 
-    * Ideation
+    * Identify Problem / Ideation
       * Product Manager
       * Delivery Principal
       * Tech as dictated by problem \(Data, UI, etc.\)
-    * Research
+    * Research / Prototype
       * Product Manager
       * User Researcher 
       * Design 
       * UI Prototyping
-    * Development
+    * Delivery / Development
       * Product Managers
       * UX / Designers
       * Developers / Quality Analysts
