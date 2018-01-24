@@ -1,4 +1,4 @@
-# Product Design Handbook 2018
+# Product Practice Handbook 2018
 
 Product Design is the act of looking at the problems your users face with a magnifying glass to identify, plan and deliver a service or good using new or improved technology and processes to solve the users problems. In this book we will attempt to identify the tools that are available to help tackle product design, the processes that lead to team success and a number of examples to further your understanding of product design engagements.
 
@@ -28,7 +28,7 @@ As of now this book is contributed to via gitbooks editing tools.
 
 In order to contribute please make a gitbook login and send it to nzeplowi@thoughtworks.com to be added to project as a contributor.
 
-We request that all changes be made in a change request so that it can be reviewed by the community before integration. All changes should have at least one review before merging into the book. In order to make a change request enter edit mode, make changes, click "Create a Change Request" in the upper left hand corner, add a short message about the changes, send the change request and then publish the changes on the new branch. 
+We request that all changes be made in a change request so that it can be reviewed by the community before integration. All changes should have at least one review before merging into the book. In order to make a change request enter edit mode, make changes, click "Create a Change Request" in the upper left hand corner, add a short message about the changes, send the change request and then publish the changes on the new branch.
 
 #### Current Core Contributors:
 
