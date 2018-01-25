@@ -1,4 +1,4 @@
-# Engagement Models
+# Product Engagements
 
 Building an engagement model is more of an art than a science often requiring a balancing of client requests, product needs and available personnel. The information in this section attempts to give insight into this art and the considerations that can lead to more thoughtful and productive engagement models.
 

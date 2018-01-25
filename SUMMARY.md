@@ -4,7 +4,7 @@
 * [Who We Are](who-we-are.md)
 * [Introduction](README.md)
 * [What Is Product?](chapter1.md)
-* [Doing Product Work](creating-a-product-innovation-engagment.md)
+* [Product Engagements](creating-a-product-innovation-engagment.md)
   * [Identify Product Engagements](creating-a-product-innovation-engagment/identify-product-engagements.md)
   * [Identify Problems and Goals](creating-a-product-innovation-engagment/identify-problems-and-goals.md)
   * [Ideate, Hypothesize and Test](creating-a-product-innovation-engagment/ideate-hypothesize-and-test.md)
@@ -36,7 +36,7 @@
     * [Agile / Scrum](methodologies/agile-lean-xd.md)
     * Lean
     * [Product Design](methodologies/design-thinking.md)
-* [Class of Problems](class-of-problems.md)
+* [Problems We Solve](class-of-problems.md)
   * [User Engagement](class-of-problems/user-engagement.md)
   * [Data](data.md)
   * [Strategic Alignment](strategic-alignment.md)
