@@ -12,7 +12,7 @@
   * [Roadmap, Maintenance and Handoffs](creating-a-product-innovation-engagment/roadmap-maintenance-and-handoffs.md)
   * [Staffing Considerations](creating-a-product-innovation-engagment/staffing-considerations.md)
 * [Product Teams](product-innovation-teams.md)
-  * Technology Skills
+  * [Technology Skills](technology-skills.md)
     * Architecture Analysis
     * Feasibility Analysis
     * [Data Science](skillsets/data.md)
