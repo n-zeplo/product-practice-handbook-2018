@@ -21,7 +21,7 @@
   * [Business Skills](business-skills.md)
     * [Service Design](methodologies/service-design.md)
     * Prioritization and Scoping
-    * Requirement Management and Anlysis
+    * [Requirement Management and Analysis](methodologies/requirement-management-and-anlysis.md)
   * Design Skills
     * [User Research](skillsets/user-research.md)
     * [Prototyping](methodologies/prototyping.md)
@@ -34,11 +34,11 @@
     * Go to Market Strategy
   * [Methodologies](methodologies.md)
     * [Agile / Scrum](methodologies/agile-lean-xd.md)
-    * Lean
-    * [Product Design](methodologies/design-thinking.md)
+    * [Lean](methodologies/lean.md)
+    * [Design Thinking](methodologies/design-thinking.md)
 * [Problems We Solve](class-of-problems.md)
   * [User Engagement](class-of-problems/user-engagement.md)
-  * [Data](data.md)
+  * [Data Management and Strategy](data.md)
   * [Strategic Alignment](strategic-alignment.md)
   * [Domain Examples](domains.md)
     * [Banking](domains/banking.md)
