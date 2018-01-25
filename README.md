@@ -22,7 +22,7 @@ This wiki will not attempt to:
 
 * [Introduction](/README.md)
 * [What is Product?](/chapter1.md)
-* [Product Engagements](/creating-a-product-innovation-engagment.md)
+* [Stages of Product Engagements](/creating-a-product-innovation-engagment.md)
   * [Identify Product Engagements](/creating-a-product-innovation-engagment/identify-product-engagements.md)
   * [Identify Problems and Goals](/creating-a-product-innovation-engagment/identify-problems-and-goals.md)
   * [Ideate, Hypothesize and Test](/creating-a-product-innovation-engagment/ideate-hypothesize-and-test.md)
