@@ -1,14 +1,14 @@
-# Product Practice Handbook 2018
+# Product Innovation Handbook 2018
 
-Product practice is a tricky concept to define in a simple way. Products work can take many forms depending on an organization's goals and what they provide to their customers. The cornerstone of product work is the utilization and collaboration of multiple specialized areas within an organization to build the right thing. In technology this often consists of a combined understanding and collaboration between business, technology and design to build better, faster and more valuable user centric products. 
+Product Innovation is a tricky concept to define in a simple way due to the variety of ways the industry engages innovating on their products. Product can take many forms depending on an organization's goals and what they provide to their customers. The cornerstone of product work is the utilization and collaboration of multiple specialized areas within an organization to build the right thing. In technology this often consists of a combined understanding and collaboration between business, technology and design to build better, faster and more valuable user centric products. This might seem like a logical step towards providing greater business value, however, the process for transforming organizations culture and value to allow for long lasting research driven product innovation is a complex organizational change. 
 
 ### Value Proposition:
 
-This Product Practice Handbook 2018 is a holistic, comprehensive resource for all to better understand the foundational knowledge that makes up product engagements. It is an open source resource for the community of product practitioners to contribute and grow this knowledge base inline with the direction and growth of the industry to maintain relevancy and usefulness. Through the definitions and resources found within this book it becomes a meeting point of ideas and patterns to help jump start conversations and engagements in the product space.
+This Product Innovation Handbook 2018 is a holistic, comprehensive resource to better understand the foundational tools, knowledge and skills that can successfully change development and delivery practices to be fed by product innovation in order to build the right product for the business and users needs. This book is open source and encourages the community of product practitioners to contribute and grow this knowledge base inline with the direction and growth of the industry maintaining the information within as relevant and usefulness for future practitioners. We aim for this book to be a meeting point of ideas and patterns to help jump start conversations and engagements in the product space and inform anyone interested in product innovation.
 
 ### Scope of this Book
 
-This wiki is comprised of foundational findings from the industry and multiple client engagements. The intent is to provide a starting point for individuals to understand the core set of information to enable product design to succeed. This team has curated the topics of this wiki to provide the most relevant information to the widest selection of product design engagements in a small consumable fashion. Insights are drawn from representative and repeated case studies and curated by a core SME team.
+This wiki is comprised of foundational findings from the industry and multiple client engagements. The intent is to provide a starting point for individuals to understand the core set of information to enable product innovation to succeed. This team has curated the topics of this wiki to provide the most relevant information to the widest selection of product design engagements in a small consumable fashion. Insights are drawn from representative and repeated case studies and curated by a core SME team.
 
 ### Out Of Scope of this Book
 
@@ -16,7 +16,6 @@ This wiki will not attempt to:
 
 * Define roles at TW and the individual skills of those roles
 * Impose a framework for product engagements
-* Be a community based knowledge base \(see google sites for community based resources\)
 
 ### Table of Contents
 
@@ -88,9 +87,9 @@ This wiki will not attempt to:
 
 ### Resources:
 
-What is Product Design:
+What is Product Innovation:
 
-* [Product Design Handbook 2018](/n-zeplo.gitbooks.io/thoughtworks-product-innovation-handbook-2018/content/)
+* [Product Innovation Handbook 2018](/n-zeplo.gitbooks.io/thoughtworks-product-innovation-handbook-2018/content/)
 
 Sale Tools:
 
