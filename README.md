@@ -23,11 +23,11 @@ This wiki will not attempt to:
 * [Introduction](/README.md)
 * [What is Product?](/chapter1.md)
 * [Stages of Product Engagements](/creating-a-product-innovation-engagment.md)
-  * [Identify Product Engagements](/creating-a-product-innovation-engagment/identify-product-engagements.md)
-  * [Identify Problems and Goals](/creating-a-product-innovation-engagment/identify-problems-and-goals.md)
-  * [Ideate, Hypothesize and Test](/creating-a-product-innovation-engagment/ideate-hypothesize-and-test.md)
-  * [Delivery](/creating-a-product-innovation-engagment/delivery.md)
-  * [Roadmap, Maintenance and Handoffs](/creating-a-product-innovation-engagment/roadmap-maintenance-and-handoffs.md)
+  * [Engage: Identify and Sell Product Engagements](/creating-a-product-innovation-engagment/identify-product-engagements.md)
+  * [Discover: Identify Problems and Goals](/creating-a-product-innovation-engagment/identify-problems-and-goals.md)
+  * [Solutioning: Ideate, Hypothesize and Test](/creating-a-product-innovation-engagment/ideate-hypothesize-and-test.md)
+  * [Delivery: Development, Go to Market and Metrics](/creating-a-product-innovation-engagment/delivery.md)
+  * [Handoffs: Clarifications, Documentation and Roadmaps](/creating-a-product-innovation-engagment/roadmap-maintenance-and-handoffs.md)
   * [Staffing Considerations](/creating-a-product-innovation-engagment/staffing-considerations.md)
 * [Product Teams](/product-innovation-teams.md)
   * Technology Skills
@@ -54,7 +54,7 @@ This wiki will not attempt to:
     * Agile / Scrum
     * Lean
     * Design Thinking
-* [Problems We Solve](/class-of-problems.md)
+* [Case Studies and Client Stories](/class-of-problems.md)
   * [User Engagement](/class-of-problems/user-engagement.md)
   * [Data Management and Strategy](/data.md)
   * [Strategic Alignment](/strategic-alignment.md)
