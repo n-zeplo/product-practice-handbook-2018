@@ -36,7 +36,7 @@
     * [Agile / Scrum](methodologies/agile-lean-xd.md)
     * [Lean](methodologies/lean.md)
     * [Design Thinking](methodologies/design-thinking.md)
-* [Problems We Solve](class-of-problems.md)
+* [Case Studies and Client Stories](class-of-problems.md)
   * [User Engagement](class-of-problems/user-engagement.md)
   * [Data Management and Strategy](data.md)
   * [Strategic Alignment](strategic-alignment.md)
