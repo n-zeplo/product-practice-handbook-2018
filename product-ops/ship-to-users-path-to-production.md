@@ -4,7 +4,7 @@
 
 Technical - CI /CD / Path to Prod
 
-Business - Go to Market Strategy
+Business - Go to Market Strategy, Metrics / Baselines / KPIs, Marketing
 
 #### Learning Resources
 

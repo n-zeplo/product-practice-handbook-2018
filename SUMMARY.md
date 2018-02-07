@@ -28,10 +28,10 @@
     * [Visual Design](skillsets/visual-design.md)
     * Accessibility
   * Product Skills
-    * Product Management
+    * [Product Management](product-management.md)
     * Framing / Story Telling
-    * Market Analysis
-    * Go to Market Strategy
+    * [Market Analysis](market-analysis.md)
+    * [Go to Market Strategy](go-to-market-strategy.md)
   * [Methodologies](methodologies.md)
     * [Agile / Scrum](methodologies/agile-lean-xd.md)
     * [Lean](methodologies/lean.md)
