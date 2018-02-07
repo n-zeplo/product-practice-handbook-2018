@@ -1,6 +1,6 @@
 # Product Practice Handbook 2018
 
-Product practice is a tricky concept to define in a simple way. Products work can take many forms depending on an organization's goals and what they provide to their customers. The cornerstone of product work is the utilization and collaboration of multiple specialized areas within an organization to build the right thing. In technology this often consists of a combined understanding and collaboration between business, technology and design to build better, faster and more valuable user centric products. 
+Product practice is a tricky concept to define in a simple way. Products work can take many forms depending on an organization's goals and what they provide to their customers. The cornerstone of product work is the utilization and collaboration of multiple specialized areas within an organization to build the right thing. In technology this often consists of a combined understanding and collaboration between business, technology and design to build better, faster and more valuable user centric products.
 
 ### Value Proposition:
 

@@ -1,4 +1,4 @@
-## Interview / Prototype
+## Solutioning: Ideate, Hypothesize and Test
 
 ###### _\(note: Ideally starting before development but can happen during delivery\)_
 
