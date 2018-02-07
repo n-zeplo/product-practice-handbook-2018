@@ -9,7 +9,7 @@
   * [Discover: Identify Problems and Goals](creating-a-product-innovation-engagment/identify-problems-and-goals.md)
   * [Solutioning: Ideate, Hypothesize and Test](creating-a-product-innovation-engagment/ideate-hypothesize-and-test.md)
   * [Delivery: Development, Go to Market and Metrics](creating-a-product-innovation-engagment/delivery.md)
-  * [Handoffs: Documentation and Roadmaps](creating-a-product-innovation-engagment/roadmap-maintenance-and-handoffs.md)
+  * [Handoffs: Clarification, Documentation and Roadmaps](creating-a-product-innovation-engagment/roadmap-maintenance-and-handoffs.md)
   * [Staffing Considerations](creating-a-product-innovation-engagment/staffing-considerations.md)
 * [Product Teams](product-innovation-teams.md)
   * [Technology Skills](technology-skills.md)

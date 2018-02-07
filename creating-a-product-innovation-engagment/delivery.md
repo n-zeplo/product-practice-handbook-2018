@@ -1,4 +1,4 @@
-## Delivery
+## Delivery: Development, Go to Market and Metrics
 
 * Further clarify implementation details and create estimates
 * Decide on technology being used to produce the product and create boilerplate
