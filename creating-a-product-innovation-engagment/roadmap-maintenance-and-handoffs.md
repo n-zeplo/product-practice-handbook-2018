@@ -1,4 +1,4 @@
-## Handoffs: Clarification, Documentation and Roadmaps
+## Handoff: Clarification, Documentation and Roadmaps
 
 * Develop a clear roadmap for product growth and development with highlights around key integrations, releases or decision points
 
