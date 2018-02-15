@@ -12,7 +12,7 @@
   * [Handoff: Clarification, Documentation and Roadmaps](creating-a-product-innovation-engagment/roadmap-maintenance-and-handoffs.md)
 * [Product Teams](product-innovation-teams.md)
   * [Technology Skills](technology-skills.md)
-    * Architecture Analysis
+    * [Architecture Analysis](skillsets/architecture-analysis.md)
     * Feasibility Analysis
     * [Data Science](skillsets/data.md)
     * [UI Development](skillsets/ui-development.md)
