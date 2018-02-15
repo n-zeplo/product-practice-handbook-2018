@@ -1,14 +1,12 @@
 ### Engage: Identify and Sell Product Engagements
 
-Overview: 
+##### Overview:
 
-Clients can approach us in many ways and often with unclear expectations or needs. From the outset of the engagement our sales team should be identifying if a project requires product work. This section will focus on a sales viewpoint covering topics including: 
+Clients approach us in many ways and often with unclear expectations or needs. From the outset of the engagement our sales team should be identifying if a project requires a product engagement model. This section will focus on a sales viewpoint covering topics including:
 
 * Key indicators of product engagements
 * Involving product practice in sales pursuit
 * Resources: Slide Decks, Client Stories, Example Staffing models and Prototyping / POC Examples
-
-
 
 
 
