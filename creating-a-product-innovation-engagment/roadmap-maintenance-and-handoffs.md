@@ -1,10 +1,24 @@
 ## Handoff: Clarification, Documentation and Roadmaps
 
-* Develop a clear roadmap for product growth and development with highlights around key integrations, releases or decision points
+##### Overview:
 
-* Ensure the development and designers have a clear idea of how to maintain the codebase and knowledge
+Products must always be prepared to handoff and should continuously be working on documentation and product roadmaps. This section will focus on things to be aware of during handoff periods and includes the entire team. This section will cover topics including:
 
-* Make documentation easily accessible and understandable in the case of handoff or onboarding new people to the team
+* Handoff Planning 
+
+* Organizing Handoff Materials 
+
+* Creating Artifacts and Contributing Examples to Product Community Hub
+
+* Resources:
+
+  * Roadmap Examples / Templates
+
+  * Example documentation models
+
+  * Templates for Creating Artifacts for Later TW Use
+
+
 
 
 
