@@ -21,12 +21,12 @@
     * [Service Design](methodologies/service-design.md)
     * Prioritization and Scoping
     * [Requirement Management and Analysis](methodologies/requirement-management-and-anlysis.md)
-  * Design Skills
+  * [Design Skills](design-skills.md)
     * [User Research](skillsets/user-research.md)
     * [Prototyping](methodologies/prototyping.md)
     * [Visual Design](skillsets/visual-design.md)
     * Accessibility
-  * Product Skills
+  * [Product Skills](product-skills.md)
     * [Product Management](product-management.md)
     * Framing / Story Telling
     * [Market Analysis](market-analysis.md)
