@@ -6,9 +6,23 @@ When implementation begins the team should have a clear understanding of the pro
 
 * Staffing and skill needs during this period
 
+  * Product Management
+
+  * Technical needs as defined by solution: language, interaction tech, etc. 
+
+  * User Researcher / Designer
+
+  * Quality Assurance / Automation
+
+  * Business Analysis / Domain Experts
+
 * Managing Scope and Expectations
 
 * Keeping delivery and Roadmaps aligned
+
+* Go to Market Strateges
+
+* Metric Tools and Analysis
 
 * Best Practices
 

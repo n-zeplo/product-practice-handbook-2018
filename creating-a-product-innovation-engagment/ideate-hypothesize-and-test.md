@@ -6,21 +6,28 @@ Once a clear problem has been identified it becomes necessary for the initial te
 
 * Staffing and skill needs during this period
 
+  * Technologists aligned with interaction technology \(data, UI, hardware, etc.\)
+  * User / Market Research
+
+  * Visual Design
+
+  * UI Prototyping
+
+  * Product Management
+
 * Discussing expectations and artifact expectations
 
-* Resources: 
+* Resources:
 
-  * User Research Models / Strategies for features 
+  * User Research Models / Strategies for features
 
-  * MVP Exercises 
+  * MVP Exercises
 
   * Non-functional Requirements Exercises
 
   * Prototyping Examples and Tools
 
   * Technical Feasibility and Ecosystem Analysis
-
-
 
 ##### Example Steps in Solutioning:
 

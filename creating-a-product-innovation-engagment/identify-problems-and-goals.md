@@ -6,15 +6,21 @@ Once we have an initial statement of work with clients it often becomes necessar
 
 * Staffing and skill needs during this period
 
-* Key questions that should be answered 
+  * Product Management
+
+  * Domain Expertise
+
+  * User Researcher
+
+* Key questions that should be answered
 
 * Resources:
 
-  *  User Research on Problem
+  * User Research on Problem
 
   * Examples of Discovery Workshops
 
-  * Offerings Slide Deck 
+  * Offerings Slide Deck
 
   * Market Research Examples
 
