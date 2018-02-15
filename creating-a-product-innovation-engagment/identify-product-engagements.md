@@ -1,10 +1,14 @@
 ### Engage: Identify and Sell Product Engagements
 
-* Client has a problem and is not sure how to build a product to solve it
+Overview: 
 
-* Client has existing product that is not solving their needs
+Clients can approach us in many ways and often with unclear expectations or needs. From the outset of the engagement our sales team should be identifying if a project requires product work. This section will focus on a sales viewpoint covering topics including: 
 
-* Client is looking for new ways to expand their product / reach
+* Key indicators of product engagements
+* Involving product practice in sales pursuit
+* Resources: Slide Decks, Client Stories, Example Staffing models and Prototyping / POC Examples
+
+
 
 
 
