@@ -18,7 +18,7 @@ This wiki will not attempt to:
 * Impose a framework for product engagements
 * Be a community based knowledge base \(see google sites for community based resources\)
 
-### Table of Contents
+### Table of Contents \(\*: Signifies in Progress\)
 
 * [Introduction](/README.md)
 * [What is Product?](/chapter1.md)
@@ -34,26 +34,26 @@ This wiki will not attempt to:
     * Architecture Analysis
     * Feasibility Analysis
     * Data Science
-    * UI Development
+    * \*UI Development
     * Domain Modeling
   * Business Skills
-    * Service Design
+    * \*Service Design
     * Prioritization and Scoping
     * Requirement Management and Analysis
   * Design Skills
-    * User Research
+    * \*User Research
     * Prototyping
     * Visual Design
-    * Accessibility
+    * \*Accessibility
   * Product Skills
     * Product Management
-    * Framing / Story Telling
+    * \*Framing / Story Telling
     * Market Analysis
     * Go to Market Strategy
   * Methodologies
     * Agile / Scrum
     * Lean
-    * Design Thinking
+    * \*Design Thinking
 * [Case Studies and Client Stories](/class-of-problems.md)
   * [User Engagement](/class-of-problems/user-engagement.md)
   * [Data Management and Strategy](/data.md)

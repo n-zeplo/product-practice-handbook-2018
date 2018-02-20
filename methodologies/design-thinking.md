@@ -1,4 +1,4 @@
-# Product Design
+# \*Product Design - IN PROGRESS: DONGIN
 
 TBD
 
@@ -15,8 +15,6 @@ Usability
 #### Learning Resources
 
 #### 
-
-
 
 
 

@@ -25,10 +25,10 @@
     * [User Research](skillsets/user-research.md)
     * [Prototyping](methodologies/prototyping.md)
     * [Visual Design](skillsets/visual-design.md)
-    * Accessibility
+    * [Accessibility](skillsets/accessibility.md)
   * [Product Skills](product-skills.md)
     * [Product Management](product-management.md)
-    * Framing / Story Telling
+    * [Framing / Story Telling](framing-story-telling.md)
     * [Market Analysis](market-analysis.md)
     * [Go to Market Strategy](go-to-market-strategy.md)
   * [Methodologies](methodologies.md)
