@@ -20,21 +20,21 @@ This wiki will not attempt to:
 
 ## Table of Contents \(\*: Signifies in Progress\)
 
-* [Introduction](./)
-* [What is Product?](what-is-product.md)
-* [Stages of Product Engagements](stages-of-product-engagements/)
-  * [Engage: Identify and Sell Product Engagements](stages-of-product-engagements/engage-identify-and-sell-product-engagements.md)
-  * [Discover: Identify Problems and Goals](stages-of-product-engagements/discover-identify-problems-and-goals.md)
-  * [Solution: Ideate, Hypothesize and Test](stages-of-product-engagements/solution-ideate-hypothesize-and-test.md)
-  * [Implement: Development, Go to Market and Metrics](stages-of-product-engagements/implement-development-go-to-market-and-metrics.md)
-  * [Handoff: Clarifications, Documentation and Roadmaps](stages-of-product-engagements/handoff-clarification-documentation-and-roadmaps.md)
-  * [Staffing Considerations](https://github.com/n-zeplo/product-practice-handbook-2018/tree/166309f1d0972163f61025391d93068d79c99373/creating-a-product-innovation-engagment/staffing-considerations.md)
-* [Product Teams](product-teams/)
+* Introduction
+* What is Product?
+* Stages of Product Engagements
+  * Engage: Identify and Sell Product Engagements
+  * Discover: Identify Problems and Goals
+  * Solution: Ideate, Hypothesize and Test
+  * Implement: Development, Go to Market and Metrics
+  * Handoff: Clarifications, Documentation and Roadmaps
+  * Staffing Considerations
+* Product Teams
   * Technology Skills
     * Architecture Analysis
     * Feasibility Analysis
     * Data Science
-    * \*UI Development
+    * [UI Development](https://thoughtworks.gitbook.io/project/~/edit/primary/introduction)
     * Domain Modeling
   * Business Skills
     * \*Service Design
@@ -54,35 +54,35 @@ This wiki will not attempt to:
     * Agile / Scrum
     * Lean
     * \*Design Thinking
-* [Case Studies and Client Stories](case-studies-and-client-stories/)
-  * [User Engagement](case-studies-and-client-stories/user-engagement.md)
-  * [Data Management and Strategy](case-studies-and-client-stories/data-management-and-strategy.md)
-  * [Strategic Alignment](case-studies-and-client-stories/strategic-alignment.md)
-  * [Domain Examples](case-studies-and-client-stories/domain-examples/)
-    * [Banking](case-studies-and-client-stories/domain-examples/banking.md)
-    * [Retail](case-studies-and-client-stories/domain-examples/retail.md)
-    * [Healthcare](case-studies-and-client-stories/domain-examples/healthcare.md)
-    * [Telecommunication](case-studies-and-client-stories/domain-examples/telecommunication.md)
-    * [Insurance / Financial Services](case-studies-and-client-stories/domain-examples/insurance-financial-services.md)
+* Case Studies and Client Stories
+  * User Engagement
+  * Data Management and Strategy
+  * Strategic Alignment
+  * Domain Examples
+    * Banking
+    * Retail
+    * Healthcare
+    * Telecommunication
+    * Insurance / Financial Services
 * Product Delivery Tools
-  * [Interaction Technology](product-delivery-tools/interaction-technology/)
-    * [Web](product-delivery-tools/interaction-technology/web.md)
-    * [Native Applications](product-delivery-tools/interaction-technology/native-applications.md)
-    * [Data Visualization](product-delivery-tools/interaction-technology/data-visualization.md)
-    * [Voice Interface](product-delivery-tools/interaction-technology/voice-interface.md)
-    * [Conversational Interface](product-delivery-tools/interaction-technology/conversational-interface.md)
-    * [Hardware, Wearables and Internet of Things](product-delivery-tools/interaction-technology/hardware-wearables-and-internet-of-things.md)
-    * [Augmented Reality and Virtual Reality](product-delivery-tools/interaction-technology/augmented-reality-and-virtual-reality.md)
-  * [Platforms](product-delivery-tools/platforms/)
-    * [Cloud \(AWS, CloudFoundry, etc.\)](product-delivery-tools/platforms/cloud-aws-cloudfoundry-etc..md)
-    * [Digital Platform Services](product-delivery-tools/platforms/digital-platform-services.md)
-    * [Serverless Architecture](product-delivery-tools/platforms/serverless-architecture.md)
-    * [Artificial Intelligence and Machine Learning](product-delivery-tools/platforms/artificial-intelligence-and-machine-learning.md)
-  * [Product Ops](product-delivery-tools/product-ops/)
-    * [Design Systems](product-delivery-tools/product-ops/design-systems.md)
-    * [Data Strategy](product-delivery-tools/product-ops/data-strategy.md)
-    * [Research Strategy](product-delivery-tools/product-ops/research-strategy.md)
-    * [Ship to Users \(End to End Value Stream\)](product-delivery-tools/product-ops/ship-to-users-end-to-end-value-stream.md)
+  * Interaction Technology
+    * Web
+    * Native Applications
+    * Data Visualization
+    * Voice Interface
+    * Conversational Interface
+    * Hardware, Wearables and Internet of Things
+    * Augmented Reality and Virtual Reality
+  * Platforms
+    * Cloud \(AWS, CloudFoundry, etc.\)
+    * Digital Platform Services
+    * Serverless Architecture
+    * Artificial Intelligence and Machine Learning
+  * Product Ops
+    * Design Systems
+    * Data Strategy
+    * Research Strategy
+    * Ship to Users \(End to End Value Stream\)
     * Experimentation Frameworks
 * Glossary
 
