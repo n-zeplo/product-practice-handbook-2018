@@ -1,6 +1,0 @@
-# Serverless Architecture 
-
-###### TBD
-
-
-

@@ -1,6 +1,0 @@
-# Native Applications
-
-###### TBD
-
-
-

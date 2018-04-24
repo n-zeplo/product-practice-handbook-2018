@@ -1,8 +1,0 @@
-# Augmented / Virtual Reality
-
-###### TBD
-
-
-
-
-

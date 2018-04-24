@@ -1,4 +1,0 @@
-# Agile, Scrum and Lean
-
-
-
